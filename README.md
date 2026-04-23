@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @garyjkuehn
-- I’m interested in finding, leveraging and improving engineering practices under the broad category of CICD.
-- 🌱 My language preference is python. A few repos focus on CICD tooling while others are hobby projects for topics such as:
--  weather reporting (my local area), AI model usage, Celestial object investigations.
+- 👋 Hi, I’m Gary
+- My language preference is python. Projects are are hobby projects in that they aren't meant to scale for enterprise usage.
+- The core topics covered by these projects include:
+-     Weather reporting (my local area). Mix of API usage and dedicated hardware under raspberry PI control.
+-     Tidal simulations and predictions.
+-     AI model usage.
+-     Celestial object investigations.
 
 <!---
 garyjkuehn/garyjkuehn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
